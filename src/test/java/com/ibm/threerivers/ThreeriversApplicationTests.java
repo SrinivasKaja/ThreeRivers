@@ -1,0 +1,13 @@
+package com.ibm.threerivers;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ThreeriversApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
